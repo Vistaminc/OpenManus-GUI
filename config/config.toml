@@ -1,0 +1,7 @@
+# Global LLM configuration
+[llm]
+model = "deepseek-chat"
+base_url = "https://api.deepseek.com/v1/"
+api_key = "sk-f19df4b1532e4bfdae76f06150c1bb4a"
+max_tokens = 4096
+temperature = 0.0
